@@ -1,0 +1,23 @@
+{
+  "name": "promo_manage_bot_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blowely/promo_manage_bot_v2.git"
+  },
+  "keywords": [
+    "tg",
+    "bot"
+  ],
+  "author": "Andrey Maryashin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blowely/promo_manage_bot_v2/issues"
+  },
+  "homepage": "https://github.com/Blowely/promo_manage_bot_v2#readme"
+}
